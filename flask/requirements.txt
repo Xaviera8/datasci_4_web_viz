@@ -1,0 +1,4 @@
+shiny
+matplotlib
+flask
+pandas
